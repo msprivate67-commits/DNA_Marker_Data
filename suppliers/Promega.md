@@ -8,7 +8,7 @@
 
 ## 10 bp DNA Step Ladder
 
-- **Product page:** https://www.promega.com/products/cloning-and-dna-markers/molecular-weight-markers/dna-step-ladders/
+- **Product page:** https://www.promega.com/products/cloning-and-dna-markers/molecular-weight-markers/10bp-dna-step-ladder/
 - **Preferred units:** bp
 - **Bands:** 10 total (10 shown, 0 hidden)
 
@@ -27,7 +27,7 @@
 
 ## 25 bp DNA Step Ladder
 
-- **Product page:** https://www.promega.com/products/cloning-and-dna-markers/molecular-weight-markers/dna-step-ladders/
+- **Product page:** https://www.promega.com/products/cloning-and-dna-markers/molecular-weight-markers/25bp-dna-step-ladder/
 - **Preferred units:** bp
 - **Bands:** 13 total (13 shown, 0 hidden)
 
@@ -49,7 +49,7 @@
 
 ## 50 bp DNA Step Ladder
 
-- **Product page:** https://www.promega.com/products/cloning-and-dna-markers/molecular-weight-markers/dna-step-ladders/
+- **Product page:** https://www.promega.com/products/cloning-and-dna-markers/molecular-weight-markers/50bp-dna-step-ladder/
 - **Preferred units:** bp
 - **Bands:** 17 total (17 shown, 0 hidden)
 
@@ -75,7 +75,7 @@
 
 ## 100 bp DNA Ladder
 
-- **Product page:** http://www.promega.com/products/cloning-and-dna-markers/molecular-weight-markers/dna-ladders/
+- **Product page:** https://www.promega.com/products/cloning-and-dna-markers/molecular-weight-markers/100bp-dna-ladder/
 - **Preferred units:** bp
 - **Bands:** 11 total (11 shown, 0 hidden)
 
@@ -95,7 +95,7 @@
 
 ## 100 bp DNA Step Ladder
 
-- **Product page:** https://www.promega.com/products/cloning-and-dna-markers/molecular-weight-markers/dna-step-ladders/
+- **Product page:** https://www.promega.com/products/cloning-and-dna-markers/molecular-weight-markers/100bp-dna-step-ladder/
 - **Preferred units:** bp
 - **Bands:** 40 total (24 shown, 16 hidden)
 
@@ -144,7 +144,7 @@
 
 ## 200 bp DNA Step Ladder
 
-- **Product page:** https://www.promega.com/products/cloning-and-dna-markers/molecular-weight-markers/dna-step-ladders/
+- **Product page:** https://www.promega.com/products/cloning-and-dna-markers/molecular-weight-markers/200bp-dna-step-ladder/
 - **Preferred units:** bp
 - **Bands:** 33 total (18 shown, 15 hidden)
 
@@ -186,7 +186,7 @@
 
 ## 1 kb DNA Ladder
 
-- **Product page:** http://www.promega.com/products/cloning-and-dna-markers/molecular-weight-markers/dna-ladders/
+- **Product page:** https://www.promega.com/products/cloning-and-dna-markers/molecular-weight-markers/1kb-dna-ladder/
 - **Preferred units:** bp
 - **Bands:** 13 total (13 shown, 0 hidden)
 
@@ -208,7 +208,7 @@
 
 ## 1 kb DNA Step Ladder
 
-- **Product page:** https://www.promega.com/products/cloning-and-dna-markers/molecular-weight-markers/dna-step-ladders/
+- **Product page:** https://www.promega.com/products/cloning-and-dna-markers/molecular-weight-markers/1kb-dna-step-ladder/
 - **Preferred units:** kb
 - **Bands:** 10 total (10 shown, 0 hidden)
 
@@ -227,7 +227,7 @@
 
 ## PCR Markers
 
-- **Product page:** http://www.promega.com/products/cloning-and-dna-markers/molecular-weight-markers/dna-ladders/
+- **Product page:** https://www.promega.com/products/cloning-and-dna-markers/molecular-weight-markers/pcr-markers/
 - **Preferred units:** bp
 - **Bands:** 6 total (6 shown, 0 hidden)
 
