@@ -1,6 +1,6 @@
 # Thermo Fisher
 
-**Official site:** `lifetechnologies.com`
+**Official site:** `thermofisher.com`
 
 **Products:** 61
 
@@ -51,7 +51,7 @@
 
 ## 25 bp DNA Ladder
 
-- **Product page:** http://products.invitrogen.com/ivgn/product/10597011
+- **Product page:** https://www.thermofisher.com/order/catalog/product/10597011
 - **Preferred units:** bp
 - **Bands:** 20 total (20 shown, 0 hidden)
 
@@ -80,7 +80,7 @@
 
 ## 50 bp DNA Ladder
 
-- **Product page:** http://products.invitrogen.com/ivgn/product/10416014
+- **Product page:** https://www.thermofisher.com/order/catalog/product/10416014
 - **Preferred units:** bp
 - **Bands:** 17 total (17 shown, 0 hidden)
 
@@ -106,7 +106,7 @@
 
 ## 100 bp DNA Ladder
 
-- **Product page:** http://products.invitrogen.com/ivgn/product/15628019
+- **Product page:** https://www.thermofisher.com/order/catalog/product/15628019
 - **Preferred units:** bp
 - **Bands:** 16 total (16 shown, 0 hidden)
 
@@ -131,7 +131,7 @@
 
 ## 250 bp DNA Ladder
 
-- **Product page:** http://products.invitrogen.com/ivgn/product/10596013
+- **Product page:** https://www.thermofisher.com/order/catalog/product/10596013
 - **Preferred units:** bp
 - **Bands:** 14 total (14 shown, 0 hidden)
 
@@ -154,7 +154,7 @@
 
 ## 1 Kb DNA Extension Ladder
 
-- **Product page:** http://products.invitrogen.com/ivgn/product/10511012
+- **Product page:** https://www.thermofisher.com/order/catalog/product/10511012
 - **Preferred units:** kb
 - **Bands:** 16 total (16 shown, 0 hidden)
 
@@ -206,7 +206,7 @@
 
 ## 1 Kb Plus DNA Ladder (old version)
 
-- **Product page:** http://products.invitrogen.com/ivgn/product/10787018
+- **Product page:** https://www.thermofisher.com/order/catalog/product/10787018
 - **Preferred units:** bp
 - **Bands:** 20 total (20 shown, 0 hidden)
 
@@ -380,7 +380,7 @@
 
 ## FastRuler™ High Range DNA Ladder
 
-- **Product page:** http://www.fermentas.com/en/products/all/dna-electrophoresis/fastruler-dna-ladders/sm112-fastruler-high
+- **Product page:** https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/thermo-scientific-nucleic-acid-electrophoresis-purification/dna-electrophoresis-thermo-scientific/dna-ladders-thermo-scientific.html
 - **Preferred units:** bp
 - **Bands:** 5 total (5 shown, 0 hidden)
 
@@ -394,7 +394,7 @@
 
 ## FastRuler™ Low Range DNA Ladder
 
-- **Product page:** http://www.fermentas.com/en/products/all/dna-electrophoresis/fastruler-dna-ladders/sm110-fastruler-low
+- **Product page:** https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/thermo-scientific-nucleic-acid-electrophoresis-purification/dna-electrophoresis-thermo-scientific/dna-ladders-thermo-scientific.html
 - **Preferred units:** bp
 - **Bands:** 5 total (5 shown, 0 hidden)
 
@@ -408,7 +408,7 @@
 
 ## FastRuler™ Middle Range DNA Ladder
 
-- **Product page:** http://www.fermentas.com/en/products/all/dna-electrophoresis/fastruler-dna-ladders/sm111-fastruler-middle
+- **Product page:** https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/thermo-scientific-nucleic-acid-electrophoresis-purification/dna-electrophoresis-thermo-scientific/dna-ladders-thermo-scientific.html
 - **Preferred units:** bp
 - **Bands:** 5 total (5 shown, 0 hidden)
 
@@ -422,7 +422,7 @@
 
 ## GeneRuler™ 50 bp DNA Ladder
 
-- **Product page:** http://www.fermentas.com/en/products/all/dna-electrophoresis/generuler-dna-ladders/sm037-generuler-50bp
+- **Product page:** https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/thermo-scientific-nucleic-acid-electrophoresis-purification/dna-electrophoresis-thermo-scientific/dna-ladders-thermo-scientific.html
 - **Preferred units:** bp
 - **Bands:** 13 total (13 shown, 0 hidden)
 
@@ -444,7 +444,7 @@
 
 ## GeneRuler™ 100 bp DNA Ladder
 
-- **Product page:** http://www.fermentas.com/en/products/all/dna-electrophoresis/generuler-dna-ladders/sm024-generuler-100bp
+- **Product page:** https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/thermo-scientific-nucleic-acid-electrophoresis-purification/dna-electrophoresis-thermo-scientific/dna-ladders-thermo-scientific.html
 - **Preferred units:** bp
 - **Bands:** 10 total (10 shown, 0 hidden)
 
@@ -463,7 +463,7 @@
 
 ## GeneRuler™ 100 bp Plus DNA Ladder
 
-- **Product page:** http://www.fermentas.com/en/products/all/dna-electrophoresis/generuler-dna-ladders/sm032-generuler-100bp-plus
+- **Product page:** https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/thermo-scientific-nucleic-acid-electrophoresis-purification/dna-electrophoresis-thermo-scientific/dna-ladders-thermo-scientific.html
 - **Preferred units:** bp
 - **Bands:** 14 total (14 shown, 0 hidden)
 
@@ -486,7 +486,7 @@
 
 ## GeneRuler™ 1 kb DNA Ladder
 
-- **Product page:** http://www.fermentas.com/en/products/all/dna-electrophoresis/generuler-dna-ladders/sm031-generuler-1kb
+- **Product page:** https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/thermo-scientific-nucleic-acid-electrophoresis-purification/dna-electrophoresis-thermo-scientific/dna-ladders-thermo-scientific.html
 - **Preferred units:** bp
 - **Bands:** 14 total (14 shown, 0 hidden)
 
@@ -509,7 +509,7 @@
 
 ## GeneRuler™ 1 kb Plus DNA Ladder
 
-- **Product page:** http://www.fermentas.com/en/products/all/dna-electrophoresis/generuler-dna-ladders/sm133-generuler-1kb-plus
+- **Product page:** https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/thermo-scientific-nucleic-acid-electrophoresis-purification/dna-electrophoresis-thermo-scientific/dna-ladders-thermo-scientific.html
 - **Preferred units:** bp
 - **Bands:** 15 total (15 shown, 0 hidden)
 
@@ -533,7 +533,7 @@
 
 ## GeneRuler™ DNA Ladder Mix
 
-- **Product page:** http://www.fermentas.com/en/products/all/dna-electrophoresis/generuler-dna-ladders/sm033-generuler-mix
+- **Product page:** https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/thermo-scientific-nucleic-acid-electrophoresis-purification/dna-electrophoresis-thermo-scientific/dna-ladders-thermo-scientific.html
 - **Preferred units:** bp
 - **Bands:** 21 total (21 shown, 0 hidden)
 
@@ -563,7 +563,7 @@
 
 ## GeneRuler™ Express DNA Ladder
 
-- **Product page:** http://www.fermentas.com/en/products/all/dna-electrophoresis/generuler-dna-ladders/sm155-generuler-express
+- **Product page:** https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/thermo-scientific-nucleic-acid-electrophoresis-purification/dna-electrophoresis-thermo-scientific/dna-ladders-thermo-scientific.html
 - **Preferred units:** bp
 - **Bands:** 9 total (9 shown, 0 hidden)
 
@@ -581,7 +581,7 @@
 
 ## GeneRuler™ High Range DNA Ladder
 
-- **Product page:** http://www.thermoscientificbio.com/nucleic-acid-electrophoresis/generuler-high-range-dna-ladder-ready-to-use-10171-to-48502-bp/
+- **Product page:** https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/thermo-scientific-nucleic-acid-electrophoresis-purification/dna-electrophoresis-thermo-scientific/dna-ladders-thermo-scientific.html
 - **Preferred units:** bp
 - **Bands:** 8 total (8 shown, 0 hidden)
 
@@ -598,7 +598,7 @@
 
 ## GeneRuler™ Low Range DNA Ladder
 
-- **Product page:** http://www.fermentas.com/en/products/all/dna-electrophoresis/generuler-dna-ladders/sm119-generuler-low
+- **Product page:** https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/thermo-scientific-nucleic-acid-electrophoresis-purification/dna-electrophoresis-thermo-scientific/dna-ladders-thermo-scientific.html
 - **Preferred units:** bp
 - **Bands:** 10 total (10 shown, 0 hidden)
 
@@ -617,7 +617,7 @@
 
 ## GeneRuler™ Ultra Low Range DNA Ladder
 
-- **Product page:** http://www.thermoscientificbio.com/nucleic-acid-electrophoresis/generuler-ultra-low-range-dna-ladder-10-to-300-bp/
+- **Product page:** https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/thermo-scientific-nucleic-acid-electrophoresis-purification/dna-electrophoresis-thermo-scientific/dna-ladders-thermo-scientific.html
 - **Preferred units:** bp
 - **Bands:** 11 total (11 shown, 0 hidden)
 
@@ -637,7 +637,7 @@
 
 ## High DNA Mass™ Ladder
 
-- **Product page:** http://products.invitrogen.com/ivgn/product/10496016
+- **Product page:** https://www.thermofisher.com/order/catalog/product/10496016
 - **Preferred units:** kb
 - **Bands:** 6 total (6 shown, 0 hidden)
 
@@ -652,7 +652,7 @@
 
 ## Low DNA Mass™ Ladder
 
-- **Product page:** http://products.invitrogen.com/ivgn/product/10068013
+- **Product page:** https://www.thermofisher.com/order/catalog/product/10068013
 - **Preferred units:** bp
 - **Bands:** 6 total (6 shown, 0 hidden)
 
@@ -667,7 +667,7 @@
 
 ## MassRuler™ DNA Ladder Mix
 
-- **Product page:** http://www.thermoscientificbio.com/nucleic-acid-electrophoresis/massruler-dna-ladder-mix-ready-to-use-80-10000-bp/
+- **Product page:** https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/thermo-scientific-nucleic-acid-electrophoresis-purification/dna-electrophoresis-thermo-scientific/dna-ladders-thermo-scientific.html
 - **Preferred units:** bp
 - **Bands:** 20 total (20 shown, 0 hidden)
 
@@ -696,7 +696,7 @@
 
 ## MassRuler™ Express Forward DNA Ladder Mix
 
-- **Product page:** http://www.thermoscientificbio.com/nucleic-acid-electrophoresis/massruler-express-forward-and-reverse-dna-ladders-mixes-ready-to-use-100-10000-bp/
+- **Product page:** https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/thermo-scientific-nucleic-acid-electrophoresis-purification/dna-electrophoresis-thermo-scientific/dna-ladders-thermo-scientific.html
 - **Preferred units:** bp
 - **Bands:** 12 total (12 shown, 0 hidden)
 
@@ -717,7 +717,7 @@
 
 ## MassRuler™ Express HR Forward DNA Ladder
 
-- **Product page:** http://www.thermoscientificbio.com/nucleic-acid-electrophoresis/massruler-express-hr-forward-reverse-dna-ladders-ready-to-use-1500-10000-bp/
+- **Product page:** https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/thermo-scientific-nucleic-acid-electrophoresis-purification/dna-electrophoresis-thermo-scientific/dna-ladders-thermo-scientific.html
 - **Preferred units:** kb
 - **Bands:** 6 total (6 shown, 0 hidden)
 
@@ -732,7 +732,7 @@
 
 ## MassRuler™ Express HR Reverse DNA Ladder
 
-- **Product page:** http://www.thermoscientificbio.com/nucleic-acid-electrophoresis/massruler-express-hr-forward-reverse-dna-ladders-ready-to-use-1500-10000-bp/
+- **Product page:** https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/thermo-scientific-nucleic-acid-electrophoresis-purification/dna-electrophoresis-thermo-scientific/dna-ladders-thermo-scientific.html
 - **Preferred units:** kb
 - **Bands:** 6 total (6 shown, 0 hidden)
 
@@ -747,7 +747,7 @@
 
 ## MassRuler™ Express LR Forward DNA Ladder
 
-- **Product page:** http://www.thermoscientificbio.com/nucleic-acid-electrophoresis/massruler-express-lr-forward-and-reverse-dna-ladders-ready-to-use-100-1000-bp/
+- **Product page:** https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/thermo-scientific-nucleic-acid-electrophoresis-purification/dna-electrophoresis-thermo-scientific/dna-ladders-thermo-scientific.html
 - **Preferred units:** bp
 - **Bands:** 6 total (6 shown, 0 hidden)
 
@@ -762,7 +762,7 @@
 
 ## MassRuler™ Express LR Reverse DNA Ladder
 
-- **Product page:** http://www.thermoscientificbio.com/nucleic-acid-electrophoresis/massruler-express-lr-forward-and-reverse-dna-ladders-ready-to-use-100-1000-bp/
+- **Product page:** https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/thermo-scientific-nucleic-acid-electrophoresis-purification/dna-electrophoresis-thermo-scientific/dna-ladders-thermo-scientific.html
 - **Preferred units:** bp
 - **Bands:** 6 total (6 shown, 0 hidden)
 
@@ -777,7 +777,7 @@
 
 ## MassRuler™ Express Reverse DNA Ladder Mix
 
-- **Product page:** http://www.thermoscientificbio.com/nucleic-acid-electrophoresis/massruler-express-forward-and-reverse-dna-ladders-mixes-ready-to-use-100-10000-bp/
+- **Product page:** https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/thermo-scientific-nucleic-acid-electrophoresis-purification/dna-electrophoresis-thermo-scientific/dna-ladders-thermo-scientific.html
 - **Preferred units:** bp
 - **Bands:** 12 total (12 shown, 0 hidden)
 
@@ -798,7 +798,7 @@
 
 ## MassRuler™ High Range DNA Ladder
 
-- **Product page:** http://www.thermoscientificbio.com/nucleic-acid-electrophoresis/massruler-high-range-dna-ladder-ready-to-use-1500-10000-bp/
+- **Product page:** https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/thermo-scientific-nucleic-acid-electrophoresis-purification/dna-electrophoresis-thermo-scientific/dna-ladders-thermo-scientific.html
 - **Preferred units:** kb
 - **Bands:** 9 total (9 shown, 0 hidden)
 
@@ -816,7 +816,7 @@
 
 ## MassRuler™ Low Range DNA Ladder
 
-- **Product page:** http://www.thermoscientificbio.com/nucleic-acid-electrophoresis/massruler-low-range-dna-ladder-ready-to-use-80-1031-bp/
+- **Product page:** https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/thermo-scientific-nucleic-acid-electrophoresis-purification/dna-electrophoresis-thermo-scientific/dna-ladders-thermo-scientific.html
 - **Preferred units:** bp
 - **Bands:** 11 total (11 shown, 0 hidden)
 
@@ -1316,7 +1316,7 @@
 
 ## ZipRuler™ Express DNA Ladder 1
 
-- **Product page:** http://www.fermentas.com/en/products/all/dna-electrophoresis/zipruler-dna-ladders/sm137-zipruler-express
+- **Product page:** https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/thermo-scientific-nucleic-acid-electrophoresis-purification/dna-electrophoresis-thermo-scientific/dna-ladders-thermo-scientific.html
 - **Preferred units:** bp
 - **Bands:** 9 total (9 shown, 0 hidden)
 
@@ -1334,7 +1334,7 @@
 
 ## ZipRuler™ Express DNA Ladder 2
 
-- **Product page:** http://www.fermentas.com/en/products/all/dna-electrophoresis/zipruler-dna-ladders/sm137-zipruler-express
+- **Product page:** https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/thermo-scientific-nucleic-acid-electrophoresis-purification/dna-electrophoresis-thermo-scientific/dna-ladders-thermo-scientific.html
 - **Preferred units:** bp
 - **Bands:** 9 total (9 shown, 0 hidden)
 
