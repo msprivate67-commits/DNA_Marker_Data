@@ -8,7 +8,7 @@
 
 ## 100 bp DNA Ladder
 
-- **Product page:** http://www.transgenbiotech.com/products/62.html
+- **Product page:** https://www.transgenbiotech.com/dna_marker/100bp_dna_ladder.html
 - **Preferred units:** bp
 - **Bands:** 11 total (11 shown, 0 hidden)
 
@@ -28,7 +28,7 @@
 
 ## 100 bp Plus DNA Ladder
 
-- **Product page:** http://www.transgenbiotech.com/products/62.html
+- **Product page:** https://www.transgenbiotech.com/dna_marker/100bp_plus_dna_ladder.html
 - **Preferred units:** bp
 - **Bands:** 12 total (12 shown, 0 hidden)
 
@@ -49,7 +49,7 @@
 
 ## 100 bp Plus II DNA Ladder
 
-- **Product page:** http://www.transgenbiotech.com/products/62.html
+- **Product page:** https://www.transgenbiotech.com/dna_marker/100bp_plus_ii_dna_ladder.html
 - **Preferred units:** bp
 - **Bands:** 14 total (14 shown, 0 hidden)
 
@@ -72,7 +72,7 @@
 
 ## 1 Kb DNA Ladder
 
-- **Product page:** http://www.transgenbiotech.com/products/62.html
+- **Product page:** https://www.transgenbiotech.com/dna_marker/1kb_dna_ladder.html
 - **Preferred units:** bp
 - **Bands:** 8 total (8 shown, 0 hidden)
 
@@ -89,7 +89,7 @@
 
 ## 1 Kb Plus DNA Ladder
 
-- **Product page:** http://www.transgenbiotech.com/products/62.html
+- **Product page:** https://www.transgenbiotech.com/dna_marker/1kb_plus_dna_ladder.html
 - **Preferred units:** bp
 - **Bands:** 12 total (12 shown, 0 hidden)
 
@@ -110,7 +110,7 @@
 
 ## Trans DNA Marker I
 
-- **Product page:** http://www.transgenbiotech.com/products/62.html
+- **Product page:** https://www.transgenbiotech.com/dna_marker/trans_dna_marker_i.html
 - **Preferred units:** bp
 - **Bands:** 7 total (7 shown, 0 hidden)
 
@@ -126,7 +126,7 @@
 
 ## Trans DNA Marker II
 
-- **Product page:** http://www.transgenbiotech.com/products/62.html
+- **Product page:** https://www.transgenbiotech.com/dna_marker/trans_dna_marker_ii.html
 - **Preferred units:** bp
 - **Bands:** 7 total (7 shown, 0 hidden)
 
@@ -142,7 +142,7 @@
 
 ## Trans2K® DNA Ladder
 
-- **Product page:** http://www.transgenbiotech.com/products/62.html
+- **Product page:** https://www.transgenbiotech.com/dna_marker/trans2k_dna_marker.html
 - **Preferred units:** bp
 - **Bands:** 6 total (6 shown, 0 hidden)
 
@@ -157,7 +157,7 @@
 
 ## Trans2K® Plus DNA Ladder
 
-- **Product page:** http://www.transgenbiotech.com/products/62.html
+- **Product page:** https://www.transgenbiotech.com/dna_marker/trans2k_plus_dna_marker.html
 - **Preferred units:** bp
 - **Bands:** 8 total (8 shown, 0 hidden)
 
@@ -174,7 +174,7 @@
 
 ## Trans2K® Plus II DNA Ladder
 
-- **Product page:** http://www.transgenbiotech.com/products/62.html
+- **Product page:** https://www.transgenbiotech.com/dna_marker/trans2k_plus_ii_dna_marker.html
 - **Preferred units:** bp
 - **Bands:** 9 total (9 shown, 0 hidden)
 
@@ -192,7 +192,7 @@
 
 ## Trans5K DNA Ladder
 
-- **Product page:** http://www.transgenbiotech.com/products/62.html
+- **Product page:** https://www.transgenbiotech.com/dna_marker/trans5k_dna_marker.html
 - **Preferred units:** bp
 - **Bands:** 8 total (8 shown, 0 hidden)
 
@@ -209,7 +209,7 @@
 
 ## Trans8K DNA Ladder
 
-- **Product page:** http://www.transgenbiotech.com/products/62.html
+- **Product page:** https://www.transgenbiotech.com/dna_marker/trans8k_dna_marker.html
 - **Preferred units:** bp
 - **Bands:** 6 total (6 shown, 0 hidden)
 
@@ -224,7 +224,7 @@
 
 ## Trans15K DNA Ladder
 
-- **Product page:** http://www.transgenbiotech.com/products/62.html
+- **Product page:** https://www.transgenbiotech.com/dna_marker/trans15k_dna_marker.html
 - **Preferred units:** bp
 - **Bands:** 8 total (8 shown, 0 hidden)
 
