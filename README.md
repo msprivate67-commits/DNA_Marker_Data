@@ -8,9 +8,9 @@ Each entry includes the product name, supplier, official product page URL, and t
 
 | | |
 |---|---|
-| Suppliers | 56 |
-| Products | 431 |
-| Total bands | 5312 |
+| Suppliers | 46 |
+| Products | 371 |
+| Total bands | 4594 |
 
 ## Data Files
 
@@ -24,26 +24,19 @@ Each entry includes the product name, supplier, official product page URL, and t
 
 | Supplier | Products | Official Site | File |
 |----------|----------|---------------|------|
-| Phage and Plasmid Markers | 18 | `fermentas.com` | [`suppliers/Phage_and_Plasmid_Markers.md`](suppliers/Phage_and_Plasmid_Markers.md) |
+| Phage and Plasmid Markers | 16 | `thermofisher.com` | [`suppliers/Phage_and_Plasmid_Markers.md`](suppliers/Phage_and_Plasmid_Markers.md) |
 | Accuris | 3 | `accuris-usa.com` | [`suppliers/Accuris.md`](suppliers/Accuris.md) |
-| Agilent | 3 | `genomics.agilent.com` | [`suppliers/Agilent.md`](suppliers/Agilent.md) |
-| Axygen | 5 | `fishersci.com` | [`suppliers/Axygen.md`](suppliers/Axygen.md) |
 | Azura Genomics | 3 | `azuragenomics.com` | [`suppliers/Azura_Genomics.md`](suppliers/Azura_Genomics.md) |
 | Bio-Rad | 1 | `bio-rad.com` | [`suppliers/Bio-Rad.md`](suppliers/Bio-Rad.md) |
-| Bioline | 9 | `bioline.com` | [`suppliers/Bioline.md`](suppliers/Bioline.md) |
-| Bioneer | 5 | `us.bioneer.com` | [`suppliers/Bioneer.md`](suppliers/Bioneer.md) |
-| Bionexus | 3 | `bionexus.net` | [`suppliers/Bionexus.md`](suppliers/Bionexus.md) |
+| Bioline | 4 | `bioline.com` | [`suppliers/Bioline.md`](suppliers/Bioline.md) |
 | biotechrabbit | 3 | `biotechrabbit.com` | [`suppliers/biotechrabbit.md`](suppliers/biotechrabbit.md) |
 | Biotium | 2 | `biotium.com` | [`suppliers/Biotium.md`](suppliers/Biotium.md) |
-| Biozym | 5 | `biozym.com` | [`suppliers/Biozym.md`](suppliers/Biozym.md) |
 | Canvax Biotech | 5 | `psparkcloning.com` | [`suppliers/Canvax_Biotech.md`](suppliers/Canvax_Biotech.md) |
 | Carl Roth | 13 | `carlroth.com` | [`suppliers/Carl_Roth.md`](suppliers/Carl_Roth.md) |
 | Dongsheng Biotech | 21 | `gdsbio.cn` | [`suppliers/Dongsheng_Biotech.md`](suppliers/Dongsheng_Biotech.md) |
 | DyneBio | 3 | `dynebio.co.kr` | [`suppliers/DyneBio.md`](suppliers/DyneBio.md) |
 | Ecogen | 5 | `bioline.com` | [`suppliers/Ecogen.md`](suppliers/Ecogen.md) |
-| Eurogentec | 2 | `secure.eurogentec.com` | [`suppliers/Eurogentec.md`](suppliers/Eurogentec.md) |
-| EURx | 7 | `eurx.com.pl` | [`suppliers/EURx.md`](suppliers/EURx.md) |
-| Fisher Scientific | 12 | `fishersci.com` | [`suppliers/Fisher_Scientific.md`](suppliers/Fisher_Scientific.md) |
+| Fisher Scientific | 1 | `fishersci.com` | [`suppliers/Fisher_Scientific.md`](suppliers/Fisher_Scientific.md) |
 | FroggaBio | 3 | `froggabio.com` | [`suppliers/FroggaBio.md`](suppliers/FroggaBio.md) |
 | G-Biosciences | 6 | `gbiosciences.com` | [`suppliers/G-Biosciences.md`](suppliers/G-Biosciences.md) |
 | GenDEPOT | 3 | `gendepot.com` | [`suppliers/GenDEPOT.md`](suppliers/GenDEPOT.md) |
@@ -55,7 +48,6 @@ Each entry includes the product name, supplier, official product page URL, and t
 | Gold Biotechnology | 6 | `goldbio.com` | [`suppliers/Gold_Biotechnology.md`](suppliers/Gold_Biotechnology.md) |
 | IBI Scientific | 2 | `ibiscientific.com` | [`suppliers/IBI_Scientific.md`](suppliers/IBI_Scientific.md) |
 | Jena Bioscience | 10 | `jenabioscience.com` | [`suppliers/Jena_Bioscience.md`](suppliers/Jena_Bioscience.md) |
-| KAPA Biosystems | 2 | `kapabiosystems.com` | [`suppliers/KAPA_Biosystems.md`](suppliers/KAPA_Biosystems.md) |
 | Lonza | 15 | `lonza.com` | [`suppliers/Lonza.md`](suppliers/Lonza.md) |
 | Lucigen | 2 | `lucigen.com` | [`suppliers/Lucigen.md`](suppliers/Lucigen.md) |
 | MIDSCI | 6 | `shop.midsci.com` | [`suppliers/MIDSCI.md`](suppliers/MIDSCI.md) |
@@ -67,18 +59,16 @@ Each entry includes the product name, supplier, official product page URL, and t
 | PHENIX Research | 4 | `phenixresearch.com` | [`suppliers/PHENIX_Research.md`](suppliers/PHENIX_Research.md) |
 | Promega | 10 | `promega.com` | [`suppliers/Promega.md`](suppliers/Promega.md) |
 | Qiagen | 8 | `qiagen.com` | [`suppliers/Qiagen.md`](suppliers/Qiagen.md) |
-| SERVA | 6 | `serva.de` | [`suppliers/SERVA.md`](suppliers/SERVA.md) |
 | SMOBIO | 17 | `smobio.com` | [`suppliers/SMOBIO.md`](suppliers/SMOBIO.md) |
 | Solis BioDyne | 2 | `sbd.ee` | [`suppliers/Solis_BioDyne.md`](suppliers/Solis_BioDyne.md) |
-| TaKaRa | 18 | `clontech.com` | [`suppliers/TaKaRa.md`](suppliers/TaKaRa.md) |
-| Thermo Fisher | 61 | `lifetechnologies.com` | [`suppliers/Thermo_Fisher.md`](suppliers/Thermo_Fisher.md) |
-| TIANGEN | 11 | `tiangen.com` | [`suppliers/TIANGEN.md`](suppliers/TIANGEN.md) |
+| TaKaRa | 18 | `takara.co.kr` | [`suppliers/TaKaRa.md`](suppliers/TaKaRa.md) |
+| Thermo Fisher | 61 | `thermofisher.com` | [`suppliers/Thermo_Fisher.md`](suppliers/Thermo_Fisher.md) |
+| TIANGEN | 10 | `tiangen.com` | [`suppliers/TIANGEN.md`](suppliers/TIANGEN.md) |
 | Toyobo | 2 | `toyobo-global.com` | [`suppliers/Toyobo.md`](suppliers/Toyobo.md) |
 | TransGen Biotech | 13 | `transgenbiotech.com` | [`suppliers/TransGen_Biotech.md`](suppliers/TransGen_Biotech.md) |
 | UBPBio | 2 | `ubpbio.com` | [`suppliers/UBPBio.md`](suppliers/UBPBio.md) |
 | Vazyme | 4 | `bio.vazyme.com` | [`suppliers/Vazyme.md`](suppliers/Vazyme.md) |
 | VWR Peqlab | 14 | `si.vwr.com` | [`suppliers/VWR_Peqlab.md`](suppliers/VWR_Peqlab.md) |
-| WATSON | 3 | `watson.co.jp` | [`suppliers/WATSON.md`](suppliers/WATSON.md) |
 | OriGene | 2 | `origene.com` | [`suppliers/OriGene.md`](suppliers/OriGene.md) |
 
 ## Data Schema (products.json)
