@@ -8,7 +8,7 @@
 
 ## 50 bp DNA Step Ladder
 
-- **Product page:** http://www.sigmaaldrich.com/catalog/product/sigma/S7025?lang=en&region=US
+- **Product page:** https://www.sigmaaldrich.com/US/en/product/sigma/s7025
 - **Preferred units:** bp
 - **Bands:** 17 total (17 shown, 0 hidden)
 
@@ -34,7 +34,7 @@
 
 ## 123 bp DNA Ladder
 
-- **Product page:** http://www.sigmaaldrich.com/catalog/product/sigma/d5042?lang=en&region=US
+- **Product page:** https://www.sigmaaldrich.com/US/en/product/sigma/d5042
 - **Preferred units:** bp
 - **Bands:** 34 total (18 shown, 16 hidden)
 
@@ -77,7 +77,7 @@
 
 ## 1 kb DNA Ladder
 
-- **Product page:** http://www.sigmaaldrich.com/catalog/product/sigma/D0428?lang=en&region=US
+- **Product page:** https://www.sigmaaldrich.com/US/en/product/sigma/d0428
 - **Preferred units:** bp
 - **Bands:** 11 total (11 shown, 0 hidden)
 
@@ -233,7 +233,7 @@
 
 ## PCR 20 bp Low Ladder
 
-- **Product page:** http://www.sigmaaldrich.com/catalog/product/sigma/p1598?lang=en&region=US
+- **Product page:** https://www.sigmaaldrich.com/US/en/product/sigma/p1598
 - **Preferred units:** bp
 - **Bands:** 50 total (11 shown, 39 hidden)
 
@@ -292,7 +292,7 @@
 
 ## PCR 50 – 2,000 bp Marker
 
-- **Product page:** http://www.sigmaaldrich.com/catalog/product/sigma/p9577?lang=en&region=US
+- **Product page:** https://www.sigmaaldrich.com/US/en/product/sigma/p9577
 - **Preferred units:** bp
 - **Bands:** 8 total (8 shown, 0 hidden)
 
@@ -309,7 +309,7 @@
 
 ## PCR 100 bp Low Ladder
 
-- **Product page:** http://www.sigmaaldrich.com/catalog/product/sigma/P1473?lang=en&region=US
+- **Product page:** https://www.sigmaaldrich.com/US/en/product/sigma/p1473
 - **Preferred units:** bp
 - **Bands:** 10 total (10 shown, 0 hidden)
 
@@ -328,7 +328,7 @@
 
 ## Wide Range DNA Marker
 
-- **Product page:** http://www.sigmaaldrich.com/catalog/product/sigma/D7058?lang=en&region=US
+- **Product page:** https://www.sigmaaldrich.com/US/en/product/sigma/d7058
 - **Preferred units:** bp
 - **Bands:** 16 total (16 shown, 0 hidden)
 
