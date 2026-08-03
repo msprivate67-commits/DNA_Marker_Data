@@ -8,7 +8,7 @@
 
 ## GelPilot 50 bp Ladder
 
-- **Product page:** http://www.qiagen.com/products/dnamarkers/gelpilot/gelpilotdnamolecularweightmarkers.aspx?gaw=QVen2GADNAMarkers&gkw=ladder%20marker
+- **Product page:** https://www.qiagen.com/us/resources/kithandbook/en-gelpilot-dna-molecular-weight-markers
 - **Preferred units:** bp
 - **Bands:** 9 total (9 shown, 0 hidden)
 
@@ -26,7 +26,7 @@
 
 ## GelPilot 100 bp Ladder
 
-- **Product page:** http://www.qiagen.com/products/dnamarkers/gelpilot/gelpilotdnamolecularweightmarkers.aspx?gaw=QVen2GADNAMarkers&gkw=ladder%20marker
+- **Product page:** https://www.qiagen.com/us/resources/kithandbook/en-gelpilot-dna-molecular-weight-markers
 - **Preferred units:** bp
 - **Bands:** 6 total (6 shown, 0 hidden)
 
@@ -41,7 +41,7 @@
 
 ## GelPilot 100 bp Plus Ladder
 
-- **Product page:** http://www.qiagen.com/products/dnamarkers/gelpilot/gelpilotdnamolecularweightmarkers.aspx?gaw=QVen2GADNAMarkers&gkw=ladder%20marker
+- **Product page:** https://www.qiagen.com/us/resources/kithandbook/en-gelpilot-dna-molecular-weight-markers
 - **Preferred units:** bp
 - **Bands:** 11 total (11 shown, 0 hidden)
 
@@ -61,7 +61,7 @@
 
 ## GelPilot 1 kb Ladder
 
-- **Product page:** http://www.qiagen.com/products/dnamarkers/gelpilot/gelpilotdnamolecularweightmarkers.aspx?gaw=QVen2GADNAMarkers&gkw=ladder%20marker
+- **Product page:** https://www.qiagen.com/us/resources/kithandbook/en-gelpilot-dna-molecular-weight-markers
 - **Preferred units:** kb
 - **Bands:** 9 total (9 shown, 0 hidden)
 
@@ -79,7 +79,7 @@
 
 ## GelPilot 1 kb Plus Ladder
 
-- **Product page:** http://www.qiagen.com/products/dnamarkers/gelpilot/gelpilotdnamolecularweightmarkers.aspx?gaw=QVen2GADNAMarkers&gkw=ladder%20marker
+- **Product page:** https://www.qiagen.com/us/resources/kithandbook/en-gelpilot-dna-molecular-weight-markers
 - **Preferred units:** bp
 - **Bands:** 12 total (12 shown, 0 hidden)
 
@@ -100,7 +100,7 @@
 
 ## GelPilot High Range Ladder
 
-- **Product page:** http://www.qiagen.com/products/dnamarkers/gelpilot/gelpilotdnamolecularweightmarkers.aspx?gaw=QVen2GADNAMarkers&gkw=ladder%20marker
+- **Product page:** https://www.qiagen.com/us/resources/kithandbook/en-gelpilot-dna-molecular-weight-markers
 - **Preferred units:** bp
 - **Bands:** 7 total (7 shown, 0 hidden)
 
@@ -116,7 +116,7 @@
 
 ## GelPilot Mid Range Ladder
 
-- **Product page:** http://www.qiagen.com/products/dnamarkers/gelpilot/gelpilotdnamolecularweightmarkers.aspx?gaw=QVen2GADNAMarkers&gkw=ladder%20marker
+- **Product page:** https://www.qiagen.com/us/resources/kithandbook/en-gelpilot-dna-molecular-weight-markers
 - **Preferred units:** bp
 - **Bands:** 6 total (6 shown, 0 hidden)
 
@@ -131,7 +131,7 @@
 
 ## GelPilot Wide Range Ladder
 
-- **Product page:** http://www.qiagen.com/products/dnamarkers/gelpilot/gelpilotdnamolecularweightmarkers.aspx?gaw=QVen2GADNAMarkers&gkw=ladder%20marker
+- **Product page:** https://www.qiagen.com/us/resources/kithandbook/en-gelpilot-dna-molecular-weight-markers
 - **Preferred units:** bp
 - **Bands:** 7 total (7 shown, 0 hidden)
 
