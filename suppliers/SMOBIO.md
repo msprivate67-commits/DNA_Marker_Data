@@ -8,7 +8,7 @@
 
 ## DM1100 ExcelBand™ 50 bp DNA Ladder
 
-- **Product page:** http://www.smobio.com/Product-DNA-DM1100.html
+- **Product page:** https://www.smobio.com/shop?search=DM1100
 - **Preferred units:** bp
 - **Bands:** 16 total (16 shown, 0 hidden)
 
@@ -33,7 +33,7 @@
 
 ## DM1160 FluoroBand™ 50 bp Fluorescent DNA Ladder
 
-- **Product page:** http://www.smobio.com/Product-DNA-DM1160.html
+- **Product page:** https://www.smobio.com/shop?search=DM1160
 - **Preferred units:** bp
 - **Bands:** 17 total (17 shown, 0 hidden)
 
@@ -59,7 +59,7 @@
 
 ## DM1200 AccuBand™ 50 bp DNA Ladder II
 
-- **Product page:** http://www.smobio.com/Product-DNA-DM1200.html
+- **Product page:** https://www.smobio.com/shop?search=DM1200
 - **Preferred units:** bp
 - **Bands:** 13 total (13 shown, 0 hidden)
 
@@ -81,7 +81,7 @@
 
 ## DM2000 AccuBand™ 100 bp DNA Marker II
 
-- **Product page:** http://www.smobio.com/Product-DNA-DM2000.html
+- **Product page:** https://www.smobio.com/shop?search=DM2000
 - **Preferred units:** bp
 - **Bands:** 6 total (6 shown, 0 hidden)
 
@@ -96,7 +96,7 @@
 
 ## DM2100 ExcelBand™ 100 bp DNA Ladder
 
-- **Product page:** http://www.smobio.com/Product-DNA-DM2100.html
+- **Product page:** https://www.smobio.com/shop?search=DM2100
 - **Preferred units:** bp
 - **Bands:** 11 total (11 shown, 0 hidden)
 
@@ -116,7 +116,7 @@
 
 ## DM2160 FluoroBand™ 100 bp Fluorescent DNA Ladder
 
-- **Product page:** http://www.smobio.com/Product-DNA-DM2160.html
+- **Product page:** https://www.smobio.com/shop?search=DM2160
 - **Preferred units:** bp
 - **Bands:** 11 total (11 shown, 0 hidden)
 
@@ -136,7 +136,7 @@
 
 ## DM2200 AccuBand™ 100 bp DNA Ladder
 
-- **Product page:** http://www.smobio.com/Product-DNA-DM2200.html
+- **Product page:** https://www.smobio.com/shop?search=DM2200
 - **Preferred units:** bp
 - **Bands:** 10 total (10 shown, 0 hidden)
 
@@ -155,7 +155,7 @@
 
 ## DM2300 ExcelBand™ 100 bp + 3K DNA Ladder
 
-- **Product page:** http://www.smobio.com/Product-DNA-DM2300.html
+- **Product page:** https://www.smobio.com/shop?search=DM2300
 - **Preferred units:** bp
 - **Bands:** 12 total (12 shown, 0 hidden)
 
@@ -176,7 +176,7 @@
 
 ## DM2360 FluoroBand™ 100 bp + 3K Fluorescent DNA Ladder
 
-- **Product page:** http://www.smobio.com/Product-DNA-DM2360.html
+- **Product page:** https://www.smobio.com/shop?search=DM2360
 - **Preferred units:** bp
 - **Bands:** 12 total (12 shown, 0 hidden)
 
@@ -197,7 +197,7 @@
 
 ## DM2400 AccuBand™ 100 bp + 3K DNA Ladder II
 
-- **Product page:** http://www.smobio.com/Product-DNA-DM2400.html
+- **Product page:** https://www.smobio.com/shop?search=DM2400
 - **Preferred units:** bp
 - **Bands:** 14 total (14 shown, 0 hidden)
 
@@ -220,7 +220,7 @@
 
 ## DM3100 ExcelBand™ 1 KB DNA Ladder
 
-- **Product page:** http://www.smobio.com/Product-DNA-DM3100.html
+- **Product page:** https://www.smobio.com/shop?search=DM3100
 - **Preferred units:** bp
 - **Bands:** 13 total (13 shown, 0 hidden)
 
@@ -242,7 +242,7 @@
 
 ## DM3160 FluoroBand™ 1 KB Fluorescent DNA Ladder
 
-- **Product page:** http://www.smobio.com/Product-DNA-DM3160.html
+- **Product page:** https://www.smobio.com/shop?search=DM3160
 - **Preferred units:** bp
 - **Bands:** 13 total (13 shown, 0 hidden)
 
@@ -264,7 +264,7 @@
 
 ## DM3200 ExcelBand™ 1 KB Plus DNA Ladder
 
-- **Product page:** http://www.smobio.com/Product-DNA-DM3200.html
+- **Product page:** https://www.smobio.com/shop?search=DM3200
 - **Preferred units:** bp
 - **Bands:** 19 total (19 shown, 0 hidden)
 
@@ -292,7 +292,7 @@
 
 ## DM3260 FluoroBand™ 1 KB Plus Fluorescent DNA Ladder
 
-- **Product page:** http://www.smobio.com/Product-DNA-DM3260.html
+- **Product page:** https://www.smobio.com/shop?search=DM3260
 - **Preferred units:** bp
 - **Bands:** 19 total (19 shown, 0 hidden)
 
@@ -320,7 +320,7 @@
 
 ## DM4100 ExcelBand™ XL 25 kb DNA Ladder
 
-- **Product page:** http://www.smobio.com/Product-DNA-DM4100.html
+- **Product page:** https://www.smobio.com/shop?search=DM4100
 - **Preferred units:** bp
 - **Bands:** 14 total (14 shown, 0 hidden)
 
@@ -343,7 +343,7 @@
 
 ## DM4160 FluoroBand™ XL 25 kb Fluorescent DNA Ladder
 
-- **Product page:** http://www.smobio.com/Product-DNA-DM4160.html
+- **Product page:** https://www.smobio.com/shop?search=DM4160
 - **Preferred units:** bp
 - **Bands:** 14 total (14 shown, 0 hidden)
 
@@ -366,7 +366,7 @@
 
 ## DM5100 ExcelBand™ Super Range DNA Ladder
 
-- **Product page:** http://www.smobio.com/Product-DNA-DM5100.html
+- **Product page:** https://www.smobio.com/shop?search=DM5100
 - **Preferred units:** bp
 - **Bands:** 26 total (21 shown, 5 hidden)
 
