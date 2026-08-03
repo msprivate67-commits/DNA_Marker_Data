@@ -1,6 +1,6 @@
 # TaKaRa
 
-**Official site:** `clontech.com`
+**Official site:** `takara.co.kr`
 
 **Products:** 18
 
@@ -8,7 +8,7 @@
 
 ## 20 bp DNA ladder
 
-- **Product page:** http://www.clontech.com/takara/US/Products/Molecular_Biology/Molecular_Biology_Reagents/Molecular_Weight_Markers/DNA_Molecular_Weight_Standard_Markers?sitex=10031:22372:US
+- **Product page:** https://takara.co.kr/web01/product/productList.asp?lcode=3409A&menu=A
 - **Preferred units:** bp
 - **Bands:** 13 total (13 shown, 0 hidden)
 
@@ -30,7 +30,7 @@
 
 ## 100 bp DNA Ladder
 
-- **Product page:** http://www.clontech.com/takara/US/Products/Molecular_Biology/Molecular_Biology_Reagents/Molecular_Weight_Markers/DNA_Molecular_Weight_Standard_Markers?sitex=10031:22372:US
+- **Product page:** https://takara.co.kr/web01/product/productList.asp?lcode=3409A&menu=A
 - **Preferred units:** bp
 - **Bands:** 11 total (11 shown, 0 hidden)
 
@@ -50,7 +50,7 @@
 
 ## 200 bp DNA Ladder
 
-- **Product page:** http://www.clontech.com/takara/US/Products/Molecular_Biology/Molecular_Biology_Reagents/Molecular_Weight_Markers/DNA_Molecular_Weight_Standard_Markers?sitex=10031:22372:US
+- **Product page:** https://takara.co.kr/web01/product/productList.asp?lcode=3409A&menu=A
 - **Preferred units:** bp
 - **Bands:** 13 total (13 shown, 0 hidden)
 
@@ -72,7 +72,7 @@
 
 ## 250 bp DNA Ladder
 
-- **Product page:** http://www.clontech.com/takara/US/Products/Molecular_Biology/Molecular_Biology_Reagents/Molecular_Weight_Markers/DNA_Molecular_Weight_Standard_Markers?sitex=10031:22372:US
+- **Product page:** https://takara.co.kr/web01/product/productList.asp?lcode=3409A&menu=A
 - **Preferred units:** bp
 - **Bands:** 8 total (8 shown, 0 hidden)
 
@@ -89,7 +89,7 @@
 
 ## 500 bp DNA Ladder
 
-- **Product page:** http://www.clontech.com/takara/US/Products/Molecular_Biology/Molecular_Biology_Reagents/Molecular_Weight_Markers/DNA_Molecular_Weight_Standard_Markers?sitex=10031:22372:US
+- **Product page:** https://takara.co.kr/web01/product/productList.asp?lcode=3409A&menu=A
 - **Preferred units:** kb
 - **Bands:** 10 total (10 shown, 0 hidden)
 
@@ -108,7 +108,7 @@
 
 ## 1 kb DNA Ladder
 
-- **Product page:** http://www.clontech.com/takara/US/Products/Molecular_Biology/Molecular_Biology_Reagents/Molecular_Weight_Markers/DNA_Molecular_Weight_Standard_Markers?sitex=10031:22372:US
+- **Product page:** https://takara.co.kr/web01/product/productList.asp?lcode=3409A&menu=A
 - **Preferred units:** kb
 - **Bands:** 10 total (10 shown, 0 hidden)
 
@@ -127,7 +127,7 @@
 
 ## 2.5 kb DNA Ladder
 
-- **Product page:** http://www.clontech.com/takara/US/Products/Molecular_Biology/Molecular_Biology_Reagents/Molecular_Weight_Markers/DNA_Molecular_Weight_Standard_Markers?sitex=10031:22372:US
+- **Product page:** https://takara.co.kr/web01/product/productList.asp?lcode=3409A&menu=A
 - **Preferred units:** kb
 - **Bands:** 14 total (14 shown, 0 hidden)
 
@@ -247,7 +247,7 @@
 
 ## pHY Marker
 
-- **Product page:** http://www.clontech.com/takara/US/Products/Molecular_Biology/Molecular_Biology_Reagents/Molecular_Weight_Markers/DNA_Molecular_Weight_Standard_Markers?sitex=10031:22372:US
+- **Product page:** https://takara.co.kr/web01/product/productList.asp?lcode=3409A&menu=A
 - **Preferred units:** bp
 - **Bands:** 9 total (9 shown, 0 hidden)
 
@@ -280,7 +280,7 @@
 
 ## Wide-Range DNA Ladder (50-10,000 bp)
 
-- **Product page:** http://www.clontech.com/takara/US/Products/Molecular_Biology/Molecular_Biology_Reagents/Molecular_Weight_Markers/DNA_Molecular_Weight_Standard_Markers?sitex=10031:22372:US
+- **Product page:** https://takara.co.kr/web01/product/productList.asp?lcode=3409A&menu=A
 - **Preferred units:** bp
 - **Bands:** 16 total (16 shown, 0 hidden)
 
@@ -305,7 +305,7 @@
 
 ## Wide-Range DNA Ladder (100-2000 bp)
 
-- **Product page:** http://www.clontech.com/takara/US/Products/Molecular_Biology/Molecular_Biology_Reagents/Molecular_Weight_Markers/DNA_Molecular_Weight_Standard_Markers?sitex=10031:22372:US
+- **Product page:** https://takara.co.kr/web01/product/productList.asp?lcode=3409A&menu=A
 - **Preferred units:** bp
 - **Bands:** 6 total (6 shown, 0 hidden)
 
@@ -320,7 +320,7 @@
 
 ## Wide-Range DNA Ladder (100-5000 bp)
 
-- **Product page:** http://www.clontech.com/takara/US/Products/Molecular_Biology/Molecular_Biology_Reagents/Molecular_Weight_Markers/DNA_Molecular_Weight_Standard_Markers?sitex=10031:22372:US
+- **Product page:** https://takara.co.kr/web01/product/productList.asp?lcode=3409A&menu=A
 - **Preferred units:** bp
 - **Bands:** 9 total (9 shown, 0 hidden)
 
