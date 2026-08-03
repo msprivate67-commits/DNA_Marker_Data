@@ -1,14 +1,14 @@
 # Phage and Plasmid Markers
 
-**Official site:** `fermentas.com`
+**Official site:** `thermofisher.com`
 
-**Products:** 18
+**Products:** 16
 
 ---
 
 ## pBR322 – AluI Digest
 
-- **Product page:** http://www.fermentas.com/en/products/all/dna-electrophoresis/phage-dna-markers/sm012-pbr322-dna-alui
+- **Product page:** https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/thermo-scientific-nucleic-acid-electrophoresis-purification/dna-electrophoresis-thermo-scientific/dna-ladders-thermo-scientific.html
 - **Preferred units:** bp
 - **Bands:** 17 total (17 shown, 0 hidden)
 
@@ -49,7 +49,7 @@
 
 ## pBR322 – HaeIII Digest
 
-- **Product page:** http://www.fermentas.com/en/products/all/dna-electrophoresis/phage-dna-markers/sm027-pbr322-dna-bsuri
+- **Product page:** https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/thermo-scientific-nucleic-acid-electrophoresis-purification/dna-electrophoresis-thermo-scientific/dna-ladders-thermo-scientific.html
 - **Preferred units:** bp
 - **Bands:** 22 total (22 shown, 0 hidden)
 
@@ -115,7 +115,7 @@
 
 ## pUC19 – MspI (HpaII) Digest
 
-- **Product page:** http://www.fermentas.com/en/products/all/dna-electrophoresis/phage-dna-markers/sm022-puc19-dna-mspi
+- **Product page:** https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/thermo-scientific-nucleic-acid-electrophoresis-purification/dna-electrophoresis-thermo-scientific/dna-ladders-thermo-scientific.html
 - **Preferred units:** bp
 - **Bands:** 11 total (11 shown, 0 hidden)
 
@@ -132,30 +132,6 @@
 | 9 | 110 | 21 |  |
 | 10 | 67 | 13 |  |
 | 11 | 34 | 13 |  |
-
-## pUC19 – Sau3AI Digest
-
-- **Product page:** http://products.invitrogen.com/ivgn/product/AM7760
-- **Preferred units:** bp
-- **Bands:** 15 total (15 shown, 0 hidden)
-
-| Band # | Length (bp) | Mass | Note |
-|--------|-------------|------|------|
-| 1 | 955 | 178 |  |
-| 2 | 585 | 109 |  |
-| 3 | 341 | 63 |  |
-| 4 | 258 | 48 |  |
-| 5 | 141 | 26 |  |
-| 6 | 105 | 20 |  |
-| 7 | 78 | 15 |  |
-| 8 | 75 | 14 |  |
-| 9 | 46 | 9 |  |
-| 10 | 36 | 7 |  |
-| 11 | 18 | 4 |  |
-| 12 | 17 | 3 |  |
-| 13 | 12 | 2 |  |
-| 14 | 11 | 2 |  |
-| 15 | 8 | 1 |  |
 
 ## λ DNA – BstEII (BstPI) Digest
 
@@ -182,7 +158,7 @@
 
 ## λ DNA – EcoRI & HindIII Digest
 
-- **Product page:** http://www.fermentas.com/en/products/all/dna-electrophoresis/lambda-dna-markers/sm019-lambda-dna-ecori-hindiii
+- **Product page:** https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/thermo-scientific-nucleic-acid-electrophoresis-purification/dna-electrophoresis-thermo-scientific/dna-ladders-thermo-scientific.html
 - **Preferred units:** bp
 - **Bands:** 12 total (12 shown, 0 hidden)
 
@@ -203,7 +179,7 @@
 
 ## λ DNA – EcoRI Digest
 
-- **Product page:** http://www.fermentas.com/en/products/all/dna-electrophoresis/lambda-dna-markers/sm028-lambda-dna-ecori
+- **Product page:** https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/thermo-scientific-nucleic-acid-electrophoresis-purification/dna-electrophoresis-thermo-scientific/dna-ladders-thermo-scientific.html
 - **Preferred units:** bp
 - **Bands:** 6 total (6 shown, 0 hidden)
 
@@ -218,7 +194,7 @@
 
 ## λ DNA – EcoT14I & BglII Digest Mixture
 
-- **Product page:** http://www.clontech.com/takara/US/Products/Molecular_Biology/Molecular_Biology_Reagents/Molecular_Weight_Markers/DNA_Molecular_Weight_Standard_Markers?sitex=10031:22372:US
+- **Product page:** https://takara.co.kr/web01/product/productList.asp?lcode=3409A&menu=A
 - **Preferred units:** bp
 - **Bands:** 18 total (18 shown, 0 hidden)
 
@@ -310,7 +286,7 @@
 
 ## λ DNA – PstI Digest
 
-- **Product page:** http://www.fermentas.com/en/products/all/dna-electrophoresis/lambda-dna-markers/sm036-lambda-dna-psti
+- **Product page:** https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/thermo-scientific-nucleic-acid-electrophoresis-purification/dna-electrophoresis-thermo-scientific/dna-ladders-thermo-scientific.html
 - **Preferred units:** bp
 - **Bands:** 20 total (20 shown, 0 hidden)
 
@@ -339,7 +315,7 @@
 
 ## λ DNA – StyI (EcoT14I) Digest
 
-- **Product page:** http://www.clontech.com/takara/US/Products/Molecular_Biology/Molecular_Biology_Reagents/Molecular_Weight_Markers/DNA_Molecular_Weight_Standard_Markers?sitex=10031:22372:US
+- **Product page:** https://takara.co.kr/web01/product/productList.asp?lcode=3409A&menu=A
 - **Preferred units:** bp
 - **Bands:** 10 total (10 shown, 0 hidden)
 
@@ -378,7 +354,7 @@
 
 ## φX174 DNA – HincII Digest
 
-- **Product page:** http://www.clontech.com/takara/US/Products/Molecular_Biology/Molecular_Biology_Reagents/Molecular_Weight_Markers/DNA_Molecular_Weight_Standard_Markers?sitex=10031:22372:US
+- **Product page:** https://takara.co.kr/web01/product/productList.asp?lcode=3409A&menu=A
 - **Preferred units:** bp
 - **Bands:** 13 total (13 shown, 0 hidden)
 
@@ -397,29 +373,3 @@
 | 11 | 201 | 29 |  |
 | 12 | 162 | 23 |  |
 | 13 | 79 | 11 |  |
-
-## φX174 DNA – HinfI Digest
-
-- **Product page:** http://www.promega.com/products/cloning-and-dna-markers/molecular-weight-markers/conventional-dna-markers/
-- **Preferred units:** bp
-- **Bands:** 17 total (17 shown, 0 hidden)
-
-| Band # | Length (bp) | Mass | Note |
-|--------|-------------|------|------|
-| 1 | 726 | 81 |  |
-| 2 | 713 | 79 |  |
-| 3 | 553 | 62 |  |
-| 4 | 500 | 56 |  |
-| 5 | 427 | 48 |  |
-| 6 | 417 | 46 |  |
-| 7 | 413 | 46 |  |
-| 8 | 311 | 35 |  |
-| 9 | 249 | 28 |  |
-| 10 | 200 | 22 |  |
-| 11 | 151 | 17 |  |
-| 12 | 140 | 16 |  |
-| 13 | 118 | 13 |  |
-| 14 | 100 | 11 |  |
-| 15 | 82 | 9 |  |
-| 16 | 66 | 15 |  |
-| 17 | 48 | 5 |  |
