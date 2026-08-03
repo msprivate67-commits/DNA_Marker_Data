@@ -2,7 +2,7 @@
 
 **Official site:** `tiangen.com`
 
-**Products:** 11
+**Products:** 10
 
 ---
 
@@ -99,21 +99,6 @@
 | 10 | 300 | 50 |  |
 | 11 | 200 | 50 |  |
 | 12 | 100 | 50 |  |
-
-## D2000
-
-- **Product page:** https://www.tiangen.com/content/details_74_7691.html
-- **Preferred units:** bp
-- **Bands:** 6 total (6 shown, 0 hidden)
-
-| Band # | Length (bp) | Mass | Note |
-|--------|-------------|------|------|
-| 1 | 2000 | 50 |  |
-| 2 | 1000 | 50 |  |
-| 3 | 750 | 100 | reference band |
-| 4 | 500 | 50 |  |
-| 5 | 250 | 50 |  |
-| 6 | 100 | 50 |  |
 
 ## D15000
 
